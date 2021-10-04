@@ -1,0 +1,22 @@
+.transactionHistory {
+  border: 1px solid black;
+  background-color: antiquewhite;
+  margin: 20px 40px;
+}
+
+th {
+  color: rgb(155, 8, 8);
+  font-weight: 700;
+}
+
+tbody {
+  background-color: cornsilk;
+}
+
+.type {
+  font-weight: 600;
+}
+
+.currency {
+  font-style: italic;
+}

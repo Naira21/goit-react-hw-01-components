@@ -1,0 +1,32 @@
+.statistics {
+  display: inline-block;
+}
+
+.title {
+  color: brown;
+  font-style: oblique;
+  font-weight: 500;
+  margin: 5px 0;
+  text-align: center;
+}
+
+.statList {
+  list-style: none;
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+.item {
+  border: cadetblue;
+  margin-left: 10px;
+}
+
+.label {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.percentage {
+  font-weight: 700;
+  font-size: 25px;
+}
